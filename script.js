@@ -45,28 +45,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Tempos depois,",
+        enunciado: "Tempos depois, você finalmente resolve mudar de vida e decide que vai se mudar. Para onde você vai?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Comprar um rancho no interior e viver uma vida na fazenda.",
+                afirmacao: "Você também resolveu passar bons anos da sua vida em tranquilidade."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Ir para um grande centro viver uma vida agitada.",
+                afirmacao: "Você percebeu que uma vida calma não era seu objetivo, mas sim um carossel de emoções."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Agora você está na virada de 2048 para 2049, como você sse sente diante de todos os anos que passou?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Feliz, se sentindo único no planeta.",
+                afirmacao: "Já é 2049 e você olha para o horizonte, reparando em famílias felizes assistindo os fogos, lembrando de todos os bons momentos que passou em sua vida!"
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Triste, por não ter tido uma vida normal.",
+                afirmacao: "Já é 2049 e você olha para o horizonte, reparando em famílias felizes assistindo os fogos, lembrando de todos os bons momentos que passou em sua vida!"
             }
         ]
     },
